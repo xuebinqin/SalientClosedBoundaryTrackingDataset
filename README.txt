@@ -19,8 +19,8 @@ Frame number of each sequence:
 
 For each frame, the ground truth is a polygon which represents a salient closed boundary.
 
-The <xxx_TrackingGroundTruth.txt> are organized as follow:
-points number: x1 y1 x2 y2 x3 y3 ... ... xn yn
+The <xxx_TrackingGroundTruth.txt> are organized as follows:
+points_number x1 y1 x2 y2 x3 y3 ... ... xn yn
 
 These polyogns are annotated frame by frame manually, and they have pixel-level accuracy.
 
