@@ -1,4 +1,4 @@
-This dataset contains nine video sequences captured by webcam for salient closed boundary tracking.They are used in our paper "Real-Time Salient Closed Boundary Tracking via Line Segments Perceptual Grouping, Xuebin Qin, Shida He, Camilo Perez Quintero, Abhineet Singh and Martin Jagersand." which is submitted to IROS 2017.
+This dataset contains nine video sequences captured by webcam for salient closed boundary tracking.They are used in our paper "Real-Time Salient Closed Boundary Tracking via Line Segments Perceptual Grouping, Xuebin Qin, Shida He, Camilo Perez Quintero, Abhineet Singh, Masood Dehghan and Martin Jagersand." which is submitted to IROS 2017.
 
 -------------------------------
 FPS: 30
