@@ -30,6 +30,8 @@ These polyogns are annotated frame by frame manually, and they have pixel-level 
 
 If you have any problems or suggestions, feel free to contact us.<br>
 
+The code can be found https://github.com/NathanUA/SlientClosedBoundaryTracking.<br>
+
 Contacts:
 ---
 Xuebin Qin<br>
