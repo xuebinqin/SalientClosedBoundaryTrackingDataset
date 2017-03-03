@@ -32,12 +32,13 @@ If you have any problems or suggestions, feel free to contact us.<br>
 
 The code can be found https://github.com/NathanUA/SlientClosedBoundaryTracking.<br>
 
-Contacts:
+Contacts
 ---
 Xuebin Qin<br>
 Department of Computing Science<br>
 University of Alberta<br>
 Edmonton, AB, Canada, T6G 2E8<br>
 
-Email:	xuebin@ualberta.ca<br>
-	xuebinua@gmail.com<br>
+Email
+xuebin@ualberta.ca<br>
+xuebinua@gmail.com<br>
