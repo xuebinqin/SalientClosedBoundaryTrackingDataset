@@ -5,7 +5,7 @@ This dataset contains nine video sequences captured by webcam for salient closed
 	` "Real-Time Salient Closed Boundary Tracking via Line Segments Perceptual Grouping, Xuebin Qin, Shida He, Camilo Perez Quintero, Abhineet Singh, Masood Dehghan and Martin Jagersand." `<br>
 which is submitted to IROS 2017.
 
-![Tracker_Initialization image]{Tracker_Initialization.png}<br>
+![Tracker_Initialization image](Tracker_Initialization.png)<br>
 
 FPS: 30<br>
 Frame size: 640(width) x 480(height)<br>
