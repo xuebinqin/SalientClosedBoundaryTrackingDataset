@@ -50,4 +50,3 @@ Edmonton, AB, Canada, T6G 2E8<br>
 
 Email:<br>
 xuebin@ualberta.ca<br>
-xuebinua@gmail.com<br>

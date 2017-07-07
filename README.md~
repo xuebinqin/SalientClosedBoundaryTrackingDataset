@@ -30,7 +30,7 @@ points_number x1 y1 x2 y2 x3 y3 ... ... xn yn<br>
 
 Xuebin Qin, Shida He, Camilo Perez Quintero, Abhineet Singh, Masood Dehghan and Martin Jagersand. "Real-time salient closed boundary tracking via line segments perceptual grouping." accepted in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 2017.<br>
 
-(2) BOUNDARY based ground truth in the folder "AccurateGroundTruthBySmoothBoundaries".<br>
+(2) BOUNDARY based ground truth in the folder "GroundTruthByBoundaries".<br>
 --
 Accurate and smooth one-pixel-width boundaries are represented by .png binary images.<br>
 
