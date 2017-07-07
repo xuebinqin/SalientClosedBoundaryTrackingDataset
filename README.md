@@ -5,7 +5,7 @@ This dataset contains nine video sequences captured by a webcam for salient clos
 
 ![Tracker_Initialization image](Tracker_Initialization.png)<br>
 
-PARAMETERS:
+PARAMETERS:<br>
 FPS: 30<br>
 Frame size: 640(width) x 480(height)<br>
 Total frames: 9598<br>
@@ -21,7 +21,8 @@ Frame numbers of each sequence: <br>
 8.ToolBox.avi:			1135<br>
 9.TransparentCup.avi: 		1051<br>
 
-For each frame, there are two level ground truth: <br>
+For each frame, there are two kinds of ground truth: <br>
+
 (1) POLYGON based ground truth in the folder "GroundTruthByPolygons".<br>
 --
 The <xxx_TrackingGroundTruth.txt> are organized as follows:<br>
