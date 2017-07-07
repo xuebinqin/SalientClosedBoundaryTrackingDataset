@@ -37,9 +37,6 @@ Accurate and smooth one-pixel-width boundaries are represented by .png binary im
 
 Xuebin Qin, Shida He, Zichen Zhang, Masood Dehghan and Martin Jagersand. "Real-time salient closed boundary tracking using perceptual grouping and shape priors." accepted in the 28th British Machine Vision Conference (BMVC), September 2017.<br>
 
-
-If you have any problems or suggestions, feel free to contact us.<br>
-
 Contacts
 ---
 Xuebin Qin<br>

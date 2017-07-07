@@ -29,6 +29,7 @@ The <xxx_TrackingGroundTruth.txt> are organized as follows:<br>
 points_number x1 y1 x2 y2 x3 y3 ... ... xn yn<br>
 
 Xuebin Qin, Shida He, Camilo Perez Quintero, Abhineet Singh, Masood Dehghan and Martin Jagersand. "Real-time salient closed boundary tracking via line segments perceptual grouping." accepted in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 2017.<br>
+The code can be found https://github.com/NathanUA/SlientClosedBoundaryTracking.<br>
 
 (2) BOUNDARY based ground truth in the folder "GroundTruthByBoundaries".<br>
 --
@@ -38,8 +39,6 @@ Xuebin Qin, Shida He, Zichen Zhang, Masood Dehghan and Martin Jagersand. "Real-t
 
 
 If you have any problems or suggestions, feel free to contact us.<br>
-
-The code can be found https://github.com/NathanUA/SlientClosedBoundaryTracking.<br>
 
 Contacts
 ---
