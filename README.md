@@ -46,6 +46,5 @@ University of Alberta<br>
 Edmonton, AB, Canada, T6G 2E8<br>
 https://webdocs.cs.ualberta.ca/~xuebin/<br>
 
-Email:<br>
 xuebin@ualberta.ca<br>
-Prof. Martin Jagersand mj7@ualberta.ca<br>
+
