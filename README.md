@@ -47,4 +47,4 @@ Edmonton, AB, Canada, T6G 2E8<br>
 
 Email:<br>
 xuebin@ualberta.ca<br>
-Professor: Martin Jagersand mj7@ualberta.ca<br>
+Prof. Martin Jagersand mj7@ualberta.ca<br>
