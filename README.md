@@ -40,9 +40,11 @@ Xuebin Qin, Shida He, Zichen Zhang, Masood Dehghan and Martin Jagersand. "Real-t
 Contacts
 ---
 Xuebin Qin<br>
+Ph.D. student 
 Department of Computing Science<br>
 University of Alberta<br>
 Edmonton, AB, Canada, T6G 2E8<br>
 
 Email:<br>
 xuebin@ualberta.ca<br>
+Professor: Martin Jagersand mj7@ualberta.ca<br>
